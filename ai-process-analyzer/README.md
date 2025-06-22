@@ -33,7 +33,13 @@
 2. **install the dependencies
   ```bash
   pip3 install psutil pandas sklearn scikit-learn tkinter tk
-3. **start
+3. **run collect_data.py for 5 min
+  ```bash
+  python3 ./collect_data.py
+4. **run train_model.py
+  ```bash
+  python3 ./train_model.py
+5. **strt ui.py
   ```bash
   python3 ./ui.py
 
