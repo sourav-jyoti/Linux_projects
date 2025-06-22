@@ -32,7 +32,9 @@
    cd ai-process-analyzer
 2. **install the dependencies
   ```bash
-  pip3 install psutil pandas sklearn scikit-learn tkinter tk
+  pip3 install psutil pandas scikit-learn mathplotlib
+  sudo apt install python3-tk
+
 3. **run collect_data.py for 5 min
   ```bash
   python3 ./collect_data.py
