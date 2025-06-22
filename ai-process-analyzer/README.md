@@ -30,6 +30,12 @@
    ```bash
    git clone https://github.com/sourav-jyoti/ai-process-analyzer.git
    cd ai-process-analyzer
+2. **install the dependencies
+  ```bash
+  pip3 install psutil pandas sklearn scikit-learn tkinter tk
+3. **start
+  ```bash
+  python3 ./ui.py
 
 ## working
 
